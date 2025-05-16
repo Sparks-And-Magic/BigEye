@@ -1,2 +1,2 @@
 # BigEye
-RTMP, RTSP, SRT Recording MP4, Viewing via HLS
+Pull or Push RTMP, RTSP, SRT with Recording MP4 and Viewing via HLS
