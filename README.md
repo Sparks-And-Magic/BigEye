@@ -23,6 +23,8 @@ This user can be added via:
 ## Free Limits
 By default the free version is limited to 30 connections and two auto started sources.
 
+Two additional sources can be manually started.
+
 ## Running
 
 Running `bigeye` with no arguments launches the web server. The log direcotry is output to the console. This is very important for getting feedback on the running system. Further, the listening ip and port are shown. By default, all IPv4 interfaces are listenend on port 8080.
