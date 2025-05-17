@@ -29,6 +29,10 @@ Two additional sources can be manually started.
 
 Running `bigeye` with no arguments launches the web server. The log direcotry is output to the console. This is very important for getting feedback on the running system. Further, the listening ip and port are shown. By default, all IPv4 interfaces are listenend on port 8080.
 
+It's necessary to access the app via http://ip:port/admin 
+
+Note the /admin.
+
 Hit CTRL-C at any time to exit (you may need to press CTRL-C multiple times).
 
 ```bash
