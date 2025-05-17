@@ -87,3 +87,8 @@ By default, an admin can view any profile.
 A grid is a set of sources that can be viewed via HLS.
 
 By default an admin can view any grid.
+
+## Recordings
+If enabled, recordings are kept on disk until expired.
+
+The app will delete them via the absolute path they were created with.
